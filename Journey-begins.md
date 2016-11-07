@@ -4,8 +4,8 @@ your in your bed and you are thinking about that mansion your grandfather told y
 
 what do you choose?
 
-[get up]()
+[get up](Going-to-mansion.md)
 
 or
 
-[stay in bed]()
+[stay in bed](Stay-in-bed.md)
