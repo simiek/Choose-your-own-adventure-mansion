@@ -1,7 +1,7 @@
-You approach the front door, and you want to explore around. What do you decide to do?
+You approach the front door, and you enter in. What do you decide to do?
 
-[Check the window](window.md)
+[Explore mansion](explore-the-mansion.md)
 
 or
  
-[Check the Mansion](mansion.md)
+[Check the window](journey-ends.md)
