@@ -4,7 +4,7 @@ your in your bed and you are thinking about that mansion your grandfather told y
 
 what do you choose?
 
-[Get up](Going-to-mansion.md)
+[get up](Going-to-mansion.md)
 
 or
 
