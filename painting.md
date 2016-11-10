@@ -8,7 +8,7 @@ you also want to do it in style too.
 
 shhould you be normal and
 
-[move the paintinhg](good-ending.md)
+[move the painting](good-ending.md)
 
 or 
 
