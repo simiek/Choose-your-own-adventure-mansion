@@ -8,7 +8,7 @@ you see the front door but also wonder if there is a back door to check out firs
 
 do you go to 
 
-[The front](Front.md)
+[The front](front-path/Front.md)
 
 or the
 
