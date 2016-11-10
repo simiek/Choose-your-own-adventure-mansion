@@ -11,7 +11,7 @@ After awhile of walking you decide that you should go back
 
 after about 2 seconds of going back you smack your face in a wall and fall down
 
-once you get your barings from the sudden face-wall you begin to panic in fear and start to hyper ventilate. along with this you keep banging the indestructable wall. you realize maybe you made a wrong turn and didnt relize it
+once you get your barings from the sudden face-wall you begin to panic in fear and start to hyper ventilate. along with this you keep banging the indestructable wall. you think and pray tha maybe you made a wrong turn and didnt relize it
 
 
 you run for a straight 30 minnutes down the chorridor and then stoped to catch your breath

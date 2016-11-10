@@ -6,6 +6,6 @@ The mansions back is filled with grass beyond belif and the walls of the house a
 
 You look around for a bit and find a small door that leads to a branching hallway. Which way do you take?
 
-[Left branch](left,md)
+[Left branch](left.md)
 
 [Right branch](right.md)
