@@ -8,4 +8,4 @@ you died a horrible death because you fell into the innerds of the mansion
 
 one too many doughnuts?
 
-[go back](../journey-ends.md)
+[go back](Journey-ends.md)
