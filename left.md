@@ -1,3 +1,4 @@
+
 ## Whats for dinner?
 
 You head to the left and stumble upon a dining hall. You see the delicious food infront of you and wonder from its amazing most luxurious smell, How amazing it would be to eat and try it.
